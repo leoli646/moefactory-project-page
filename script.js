@@ -113,7 +113,7 @@ for (const button of document.querySelectorAll("[data-figure]")) {
     const file = button.dataset.figure;
     const title = button.dataset.title;
     document.getElementById("figure-dialog-title").textContent = title;
-    document.getElementById("dialog-image").src = `assets/figures/${file}.png`;
+    document.getElementById("dialog-image").src = `${file}.png`;
     document.getElementById("dialog-image").alt = button.dataset.alt || button.querySelector("img").alt;
     figureDialog.showModal();
     document.body.classList.add("dialog-open");
