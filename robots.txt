@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://leoli646.github.io/moefactory-project-page/sitemap.xml
