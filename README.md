@@ -1,4 +1,4 @@
-# MoE × PEFT 论文项目网站
+# MoEFactory 论文项目网站
 
 基于《An Empirical Study of Parameter-Efficient Fine-Tuning for Mixture-of-Experts LLMs》制作的英文静态项目网站。
 
